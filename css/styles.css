@@ -221,7 +221,6 @@ a {text-decoration: none;}
     width: calc((100% - 24 *3 ) / 4);}
 .card-content {
     padding: 32px 0 32px;
-    
 }
 .name {
     margin-bottom: 8px;
